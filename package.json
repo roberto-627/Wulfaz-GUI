@@ -1,0 +1,22 @@
+{
+  "name": "wulfaz-gui",
+  "version": "1.0.0",
+  "description": "Wulfaz gui developed with Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberto-627/Wulfaz-GUI.git"
+  },
+  "author": "Roberto Melara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberto-627/Wulfaz-GUI/issues"
+  },
+  "homepage": "https://github.com/roberto-627/Wulfaz-GUI#readme",
+  "dependencies": {
+    "electron": "^6.0.5"
+  }
+}
