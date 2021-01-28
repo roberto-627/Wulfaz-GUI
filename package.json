@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/roberto-627/Wulfaz-GUI#readme",
   "dependencies": {
-    "electron": "^6.0.5"
+    "electron": "^9.4.0"
   }
 }
